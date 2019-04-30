@@ -17,12 +17,12 @@ C3 is C-E parasitic capacitance of NPN_2
 
 And
 <p align="center">
-<img src="/Eq-nl.png" width="180">
+<img src="/Eq-3.png" width="180">
 </p>
 
 The functions f(x) and g(x) describe the electrical response of the nonlinear component (transistor NPN), and its shape depends on the used model of its components.
 <p align="center">
-<img src="/Eq-2.png" width="350">
+<img src="/Eq_nl.png" width="350">
 </p>
 
 

@@ -4,10 +4,11 @@ About the https://iris.unipa.it/retrieve/handle/10447/276402/535513/81-Minati_Ch
 <p align="center">
 <img src="/circuit.png" width="550">
 </p>
+
 # Equations
 <p align="left">
-  <img src="/Eq-1.png" />
-  <img src="/Eq-2.png" /> 
+  <img src="/Eq-1.png" width="400" />
+  <img src="/Eq-2.png" width="400"/> 
 </p>
 
 Where

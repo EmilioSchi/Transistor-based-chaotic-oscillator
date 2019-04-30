@@ -10,16 +10,22 @@ Analyzing the circuit using Kirchhoff's circuit laws, the dynamics of Transistor
 <p align="center">
   <img src="/Eq-1.png" width="440" />
 </p>
+Where:
+C1 is B-C parasitic capacitance of NPN_1
+C2 is B-E parasitic capacitance of NPN_1
+C3 is C-E parasitic capacitance of NPN_2
 
-The functions f(x) and g(x) describe the electrical response of the nonlinear component (transistor NPN).
+And
+<p align="center">
+<img src="/Eq-3.png" width="180">
+</p>
+
+The functions f(x) and g(x) describe the electrical response of the nonlinear component (transistor NPN), and its shape depends on the used model of its components.
 <p align="center">
 <img src="/Eq-2.png" width="350">
 </p>
 
-Where 
-<p align="center">
-<img src="/Eq-3.png" width="180">
-</p>
+
 
 # Signals
 <p align="center">

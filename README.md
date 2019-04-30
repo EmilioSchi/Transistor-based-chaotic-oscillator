@@ -4,12 +4,23 @@ About the https://iris.unipa.it/retrieve/handle/10447/276402/535513/81-Minati_Ch
 <p align="center">
 <img src="/circuit.png" width="550">
 </p>
+# Equations
+<p align="left">
+  <img src="/Eq-1.png" />
+  <img src="/Eq-2.png" /> 
+</p>
 
+Where
+<p align="center">
+<img src="/Eq-3.png" width="550">
+</p>
 
+# Signals
 <p align="center">
 <img src="/signal.png" alt="alt text">
 </p>
 
+# Attractor
 <p align="center">
   <img src="/attractor_VC.gif" width="380" />
   <img src="/attractor_VBC1.gif" width="380" /> 

@@ -8,17 +8,17 @@ About the https://iris.unipa.it/retrieve/handle/10447/276402/535513/81-Minati_Ch
 # Equations
 Analyzing the circuit using Kirchhoff's circuit laws, the dynamics of Transistor-based-chaotic-oscillator can be accurately modeled by means of a system of seven nonlinear ordinary differential equations: 
 <p align="center">
-  <img src="/Eq-1.png" width="410" />
+  <img src="/Eq-1.png" width="430" />
 </p>
 
 The functions f(x) and g(x) describe the electrical response of the nonlinear component (transistor NPN).
 <p align="center">
-<img src="/Eq-2.png" width="320">
+<img src="/Eq-2.png" width="340">
 </p>
 
 Where 
 <p align="center">
-<img src="/Eq-3.png" width="190">
+<img src="/Eq-3.png" width="180">
 </p>
 
 # Signals
@@ -28,6 +28,6 @@ Where
 
 # Attractor
 <p align="center">
-  <img src="/attractor_VC.gif" width="390" />
-  <img src="/attractor_VBC1.gif" width="390" /> 
+  <img src="/attractor_VC.gif" width="400" />
+  <img src="/attractor_VBC1.gif" width="400" /> 
 </p>

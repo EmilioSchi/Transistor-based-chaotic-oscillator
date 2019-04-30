@@ -2,7 +2,7 @@
 About the https://iris.unipa.it/retrieve/handle/10447/276402/535513/81-Minati_Chaos-2017.pdf I show a set of dynamic non linear equation that represent a good approximation of autonomous chaotic oscillator circuit. Chaos is a pervasive occurrence in these kind of circuits.
 
 <p align="center">
-<img src="/circuit_.png" width="550">
+<img src="/circuit_.png" width="560">
 </p>
 
 # Equations
@@ -22,7 +22,7 @@ And
 
 The functions f(x) and g(x) describe the electrical response of the nonlinear component (transistor NPN), and its shape depends on the used model of its components.
 <p align="center">
-<img src="/Eq_nl.png" width="470">
+<img src="/Eq_nl.png" width="490">
 </p>
 
 

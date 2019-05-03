@@ -27,12 +27,12 @@ The functions f(x) and g(x) describe the electrical response of the nonlinear co
 
 Consider the base current too
 <p align="center">
-<img src="/img/Eq_4.png" width="440">
+<img src="/img/Eq_4.png" width="490">
 </p>
 
 The system become
 <p align="center">
-<img src="/img/Eq_s.png" width="480">
+<img src="/img/Eq_s.png" width="450">
 </p>
 
 # Signals

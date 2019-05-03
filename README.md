@@ -32,7 +32,7 @@ Consider the base current too
 
 The system become
 <p align="center">
-<img src="/img/Eq_s.png" width="450">
+<img src="/img/Eq_s.png" width="400">
 </p>
 
 # Signals

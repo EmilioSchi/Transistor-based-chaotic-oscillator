@@ -25,7 +25,15 @@ The functions f(x) and g(x) describe the electrical response of the nonlinear co
 <img src="/img/Eq_nl.png" width="490">
 </p>
 
+Consider the base current too
+<p align="center">
+<img src="/img/Eq_4.png" width="440">
+</p>
 
+The system become
+<p align="center">
+<img src="/img/Eq_s.png" width="480">
+</p>
 
 # Signals
 <p align="center">
@@ -35,5 +43,5 @@ The functions f(x) and g(x) describe the electrical response of the nonlinear co
 # Attractor
 <p align="center">
   <img src="/img/attractor_VC.gif" width="405" />
-  <img src="/img/attractor_VBC1.gif" width="405" /> 
+  <img src="/img/attractor_VBC1.gif" width="405" />
 </p>

@@ -51,7 +51,7 @@ An equivalent electrical circuit model is an idealized electrical description of
 </p> <br />
 Where: <br />
 C1  is the sum between parasitic capacitance of BJT Q1 and inductor L1 <br />
-C2 is the parasitic capacitance of inductor L3 <br />
+C2 is the parasitic capacitance of inductor L2 <br />
 C3 is the sum between parasitic capacitance of BJT Q2 and parasitic capacitance of the left side circuit <br />
 Vdrop is the average voltage drop across the left side circuit <br />
 And, this time, the set of equations found are: <br />

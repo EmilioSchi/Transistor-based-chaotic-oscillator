@@ -5,7 +5,7 @@ About the https://iris.unipa.it/retrieve/handle/10447/276402/535513/81-Minati_Ch
 <img src="/img/circuit_.png" width="560">
 </p>
 
-# First test
+# First test (FAILURE)
 Analyzing the circuit using Kirchhoff's circuit laws, the dynamics of Transistor-based-chaotic-oscillator can be accurately modeled by means of a system of seven nonlinear ordinary differential equations:
 <p align="center">
   <img src="/img/Eq-1.png" width="480" />

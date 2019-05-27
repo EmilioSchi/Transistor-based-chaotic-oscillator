@@ -69,3 +69,6 @@ And, this time, the set of equations found are: <br />
 <p align="center">
   <img src="/img/attractor_VC_t3.png" width="600" />
 </p>
+
+## Got questions?
+For questions and discussion, or anything else, please shoot me a message on github or send me an email. You can find me at emilioschi@gmail.com . I will try to get back to you asap.

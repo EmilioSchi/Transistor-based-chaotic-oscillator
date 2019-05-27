@@ -37,13 +37,13 @@ The system become
 
 # Ideal circuit
 A circuit model will always be an approximation of the real-world structure. 
-An equivalent electrical circuit model is an idealized electrical description of a real structure. It is an approximation, based on using combinations of ideal circuit elements. In our case, after fists test, we recognize:
+An equivalent electrical circuit model is an idealized electrical description of a real structure. It is an approximation, based on using combinations of ideal circuit elements. In our case, after fists test, at the end we recognize:
 <p align="center">
-<img src="/img/circuit_2.png" width="560">
+<img src="/img/circuit_2.png" width="600">
 </p>
 And, the set of equations found are:
 <p align="center">
-<img src="/img/equations_set.png" width="400">
+<img src="/img/equations_set.png" width="500">
 </p>
 
 

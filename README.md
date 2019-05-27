@@ -5,7 +5,7 @@ About the https://iris.unipa.it/retrieve/handle/10447/276402/535513/81-Minati_Ch
 <img src="/img/circuit_.png" width="560">
 </p>
 
-## First test
+# First test
 Analyzing the circuit using Kirchhoff's circuit laws, the dynamics of Transistor-based-chaotic-oscillator can be accurately modeled by means of a system of seven nonlinear ordinary differential equations:
 <p align="center">
   <img src="/img/Eq-1.png" width="480" />
@@ -34,10 +34,6 @@ The system become
 <p align="center">
 <img src="/img/Eq_s.png" width="400">
 </p>
-# Signals
-<p align="center">
-<img src="/img/signal.png" alt="alt text">
-</p>
 
 # Attractor
 <p align="center">
@@ -45,9 +41,9 @@ The system become
   <img src="/img/attractor_VBC1.gif" width="405" />
 </p>
 
-## Second test
+# Second test
 
-# Ideal circuit
+## Ideal circuit
 A circuit model will always be an approximation of the real-world structure. 
 An equivalent electrical circuit model is an idealized electrical description of a real structure. It is an approximation, based on using combinations of ideal circuit elements. In our case, after fists test, at the end we recognize:
 <p align="center">
@@ -66,5 +62,5 @@ And, this time, the set of equations found are:<br />
 
 # Attractor
 <p align="center">
-  <img src="/img/attractor_VC_t3.png" width="405" />
+  <img src="/img/attractor_VC_t3.png" width="600" />
 </p>
